@@ -1,0 +1,78 @@
+#Testing Playground
+
+url: https://nearform.github.io/testing-playground/
+
+Testing Playground
+    - Verify the search event a correct
+    - Verify the search event level a correct
+    - Verify the change language a correct
+    - Verify redirect click nearform button 
+
+Add or Remove 
+    - Verify click AddElement button 
+    - Verify click RemoveElementX button
+    - Verify click Clear Storage button
+
+Checkbox
+    - Verify checkbox Checked 
+    - Verify checkbox Disabled 
+    - Verify checkbox select required field (*)
+    - Verify select Child 1 checkbox
+    - Verify select Child 2 checkbox
+    - Verify select Parent
+    - Verify select icon
+    
+Login Form
+    - Verify Valid Username and Password
+    - Verify incorrect password for a valid username.
+    - Verify incorrect username for a valid password
+    - Verify an empty username field.
+    - Verify an empty Password field.ch 
+    - Verify Invalid Username and Password.
+
+Radio Button
+    - Verify select red color
+    - Verify select blue color
+    - Verify select yellow color
+    - Verify disabled white color
+
+Tooltips
+    - Verify mouse on bin icon
+    - Verify mouse on MORE INFO button
+
+Various Inputs
+    - Verify the output text 
+    - Verify the output password 
+    - Verify the output number
+    - Verify the output date
+    - Verify the output textarea 
+    - Verify click CLEAR ALL button
+
+Drag and Drop
+    - Verify Drag elements Drag Me! of the page and drop them on the other side.
+
+File Download
+    - Verify download a file.
+
+File Upload
+    - Verify Upload a file.
+
+Notification
+    - Verify check alerts notification Success button
+    - Verify check alerts notification Info button
+    - Verify check alerts notification Warning button
+    - Verify check alerts notification Error button
+    - Verify check alerts click buttons to trigger notification popup stays visible for every 6 seconds.
+
+Sliders
+    - Verify the sliders Basic Slider
+    - Verify the sliders Slider with Range
+    - Verify the sliders Slider with input
+
+Drag and Drop
+    - Verify a correct drop will result in the shape turning green
+    - Verify incorrect drop will result in the shape turning yellow
+
+
+Dynamic Table 
+    - Verify Find the data within the green bar within the table. 
